@@ -1,0 +1,3 @@
+[submodule "plugin-checker"]
+	path = plugin_checker
+	url = https://bitbucket.miwalker.net/scm/scripts/plugin-checker.git
